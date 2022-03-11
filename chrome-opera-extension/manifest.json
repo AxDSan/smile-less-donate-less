@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
 
-  "name": "Smile More, Donate More :)",
+  "name": "Smile Less, Donate Less :)",
 
-  "short_name": "Smile More",
+  "short_name": "Smile Less",
 
-  "description": "Redirects Amazon.com requests to smile.amazon.com. Amazon donates to your favorite charity every time you shop through AmazonSmile.",
+  "description": "Stops redirecting to the annoying Sile.Amazon.com and shoots you directly to amazon.com.",
 
   "version": "1.4",
 
@@ -14,9 +14,11 @@
     "default_popup": "info.html"
   },
 
-  "icons": { "16": "icons/smilemore16.png",
-           "48": "icons/smilemore48.png",
-          "128": "icons/smilemore128.png" },
+  "icons": {
+    "16": "icons/smilemore16.png",
+    "48": "icons/smilemore48.png",
+    "128": "icons/smilemore128.png"
+  },
 
   "background": {
     "persistent": true,
@@ -29,6 +31,8 @@
     "*://www.amazon.de/*",
     "*://amazon.com/*",
     "*://amazon.de/*",
+    "*://smile.amazon.com/*",
+    "*://smile.amazon.de/*",
     "webRequestBlocking"
   ],
 
