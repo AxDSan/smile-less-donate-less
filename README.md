@@ -24,9 +24,13 @@ Simply add the extension to your browser of choice using one of the below free d
 
 - In your browser navigate to your extensions
 - Turn on Developer Mode (as shown below)
+
   ![Turn on Developermode](https://i.imgur.com/82JPdFY.png)
+
 - Click on Load Unpacked (as shown below)
+
   ![Load Unpacked](https://i.imgur.com/KSVeawr.png)
+
 - And then simply select where you have downloaded this folder... make sure to access NOT the entire repository, but where the chrome extension project folder is... 👍
 - Done!
 
