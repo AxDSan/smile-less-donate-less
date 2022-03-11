@@ -16,9 +16,9 @@ This app is currently compatible with the following browsers:
 - ~~Firefox~~ (Not gonna work on this...)
 - ~~Opera~~ (Neither on this...)
 
-## How to Use **Smile More, Donate More :)**
+## How to Use **Smile More, Donate Less :)**
 
-Simply add the extension to your browser of choice using one of the below free download links, and it'll take care of all redirects for any future browsing.
+Simply add the extension to your browser of choice by following the installation steps below, and it'll take care of all redirects for any future browsing.
 
 ## Installation:
 
