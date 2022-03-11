@@ -1,8 +1,8 @@
-![Smile Less, Donate Less :) Banner](https://github.com/jttyeung/smile-more-donate-more/blob/master/screenshots/smilemore-1400x560.png?raw=true)
+![Smile More, Donate Less :) Banner](https://i.imgur.com/kEY11C2.png)
 
-# Smile Less, Donate Less :)
+# Smile More, Donate Less :)
 
-**Smile Less, Donate Less :)** is a lightweight browser extension built in JavaScript, HTML, and CSS. The extension captures any Smile.Amazon.com URL requests browsed to by the user and instead sends the browser to the Amazon main website. AmazonSmile is Amazon's charity program and it has turned out to be (at least for me) very invasive and annoying! up to the point that I cannot go to amazon, even when using a special tag/query at the end of an url (smd-noredirect) which is supposed to bypass the smile domain.
+**Smile More, Donate Less :)** is a lightweight browser extension built in JavaScript, HTML, and CSS. The extension captures any Smile.Amazon.com URL requests browsed to by the user and instead sends the browser to the Amazon main website. AmazonSmile is Amazon's charity program and it has turned out to be (at least for me) very invasive and annoying! up to the point that I cannot go to amazon, even when using a special tag/query at the end of an url (smd-noredirect) which is supposed to bypass the smile domain.
 
 So in my desperation to NOT DONATE ANYTHING and Amazon shovinig down my throat, I found this useful chrome extension and made it my own.
 
